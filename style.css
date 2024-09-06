@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+    color: white;
+}
+h1{
+    color: yellow;
+    background-color: black;
+}
+input{
+    outline-color: yellow;
+    border-color: blue;
+    background-color: yellow;
+}
+::placeholder{
+    color: green;
+}
+::ms-input-placeholder{
+color: white;
+}
