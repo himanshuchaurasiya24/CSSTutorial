@@ -1,11 +1,37 @@
 body{
-    background-color: green;
+    background-color: grey;
     color: white;
 }
 h1{
     color: yellow;
-    background-color: black;
+    font-family: 'Press Start 2P';
+    /* background-color: black; */
 }
+
+#p1{
+    /* color: white; */
+    font-family: 'consolas', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    /* color: red; */
+    text-decoration:red dashed underline;
+}
+#p2{
+    /* color: violet; */
+    /* background-color: white; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* border-radius: 10%; */
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: gold;
+    border-style: outset;
+}
+.odd{
+    color: green;
+}
+.even{
+    color: green;
+} 
 input{
     outline-color: yellow;
     border-color: blue;
