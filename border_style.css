@@ -1,0 +1,26 @@
+h1{
+    border-color: red;
+    color: white;
+    border-width: 3px;
+    border-radius: 5px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-right-style: solid;
+    padding-left:30px;
+    
+}
+body{
+    background-color: black;
+    /* color: green; */
+    
+}
+#p1{
+    font-size: 20pt;
+    padding: 5px;
+    border-width: 1px;
+    color: white;
+    border-radius: 5px;
+    border-color: gold;
+    border-style: double
+}
