@@ -1,0 +1,17 @@
+img{
+    float: right;
+    margin: 10px;
+}
+.box{
+width: 100px;
+height: 100px;
+border: 1px solid;
+background-color: tomato;
+font-size: 40px;
+text-align: center;
+margin: 5px;
+float: right;
+}
+p{
+    clear: right;
+}

@@ -1,0 +1,33 @@
+body{
+    /* background-color: green; */
+    border: 2px solid;
+    margin: 1px;
+}
+#box1{
+    /* background-color: rebeccapurple;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: yellow; */
+    padding: 5px;
+    border: 5px solid;
+    width: 250px;
+    background-color: yellow;
+    height: 250px;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+#box2{
+    /* margin-top: 10px; */
+    /* margin: auto; */
+    /* margin-left: 50%; */
+    margin-left: auto;
+    padding: 5px;
+    border: 5px solid;
+    width: 250px;
+    background-color: teal;
+    height: 250px;
+    font-size: 22px;
+}
