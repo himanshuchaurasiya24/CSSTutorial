@@ -1,0 +1,35 @@
+a:link{
+    color: brown;
+    font-size: 40px;
+}
+a:visited{
+    color: gray;
+    font-size: 20px;
+}
+a:hover{
+    color: green;
+    font-size: 45px;
+}
+a:active{
+    color: teal;
+}
+button:hover{
+    background-color: lightgrey;
+}
+/* li:nth-child(10){
+    background-color: yellowgreen;
+} */
+ li:nth-child(even){
+    background-color: skyblue;
+ }
+ li:nth-child(odd){
+    background-color: powderblue;
+ }
+ /* to color a particular element at a particular interval */
+ /* li:nth-child(3n){
+    background-color: blueviolet;
+ } */
+ /* to start from the desired index use the below code */
+ li:nth-child(3n+1){
+    background-color: blueviolet;
+ }
