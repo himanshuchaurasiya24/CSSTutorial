@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+#box1{
+    height: 250px;
+    width: 250px;
+    font-size: 100px;
+    border-style: solid;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 5px;
+    color: green;
+    border-color: green;
+    /* transform: translateX(50px); */
+    /* transform: translateY(50px); */
+    transform: translate(50px, 50px);
+    /* transform: rotateX(180deg); */
+    /* transform: rotateY(180deg); */
+    /* transform: rotateZ(90deg); */
+    /* transform: scaleX(1.5);
+    transform: scaleY(1.5); */
+    /* transform: scale(1.5, 1.5); */
+    /* transform: skewX(45deg); */
+    /* transform: skewY(45deg); */
+    /* transform: skew(45deg); */
+
+}
